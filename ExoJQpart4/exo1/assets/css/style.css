@@ -1,0 +1,37 @@
+body {
+  background-color: #2689af;
+}
+
+h2, p {
+  line-height: 50px;
+}
+
+.box {
+  width: 200px;
+  float: left;
+}
+
+#rock {
+  font-style: underline;
+  height: 30px;
+  width: 30px;
+}
+
+#paper {
+  font-style: italic;
+  height: 30px;
+  width: 30px;
+}
+
+#scissors {
+  font-style: bold;
+  height: 30px;
+  width: 30px;
+}
+
+#userChoice {
+  color: #486a8a;
+  background-color: inherit;
+  border-radius: 50%;
+  display: flex;
+}
